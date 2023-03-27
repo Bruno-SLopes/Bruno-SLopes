@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Sá Lopes.
-- 👀 I'm a Portuguese guy in the last year of a master's degree, eager, excited, seeking to enter the personal finance area, and highly
+- 👀 I'm a Portuguese guy in the last year of a master's degree, eager, excited, and highly
 motivated to learn more about AI, Cloud Computing, and Face
 Detection and Recognition.
 - 🌱 I’m currently making a thesis about Facial Detection and Recognition in non-cooperative and crowded environments.
